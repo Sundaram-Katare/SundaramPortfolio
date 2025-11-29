@@ -41,7 +41,7 @@ export default function Resume() {
 
           <div className="flex flex-col sm:flex-row items-center md:items-start gap-4">
             <a
-              href="https://drive.google.com/file/d/1EMn9fN5ZxKhn-I1gGZ_VS6eC3ZhpsR67/view?usp=sharing"
+              href="https://drive.google.com/file/d/14cYLNBiuOIvoDeSjH849GX5ffEFSzFSR/view?usp=drive_link"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-[#ECDFCC] text-[#1E1E1E] font-semibold px-5 py-2 rounded-md text-sm sm:text-base hover:opacity-80 transition-all duration-300"
